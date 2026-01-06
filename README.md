@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Supun</h1>
-<h3 align="center">A passionate Software Engineer and AI/ML Engineerer from Sri Lanka</h3>
+<h3 align="center">Software Engineer and AI/ML Engineerer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashantha-lk&label=Profile%20views&color=0e75b6&style=flat" alt="hashantha-lk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashantha-lk" alt="hashantha-lk" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision Based projects**
+- 🔭 I’m currently working on **Computer Vision** projects
 
-- 🌱 I’m currently learning **Data Scienc**
+- 🌱 I’m currently diving deep in to **Data Scienc**
 
-- 👯 I’m looking to collaborate on **projects with Machine Learning & AI**
+- 👯 I’m looking to collaborate on **Machine Learning & AI** projects
 
-- 💬 Ask me about **Frontend, Backend, Machine Learning, Image Processing, Data Science, Open CV, YOLO, Flask API, Object- Oriented Programming**
+- 💬 Ask me about **Frontend, Backend, Machine Learning, Image Processing, Data Collection, Annotation, Open CV, YOLO, Flask API, Object-Oriented Programming**
 
 - 📫 How to reach me **supun.social@gmail.com**
 
