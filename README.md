@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Computer Vision** projects
 
-- 🌱 I’m currently diving deep in to **Data Scienc**
+- 🌱 I’m currently diving deep in to **Data Science** domain
 
 - 👯 I’m looking to collaborate on **Machine Learning & AI** projects
 
