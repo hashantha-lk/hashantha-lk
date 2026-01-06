@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Frontend, Backend, Machine Learning, Image Processing, Data Collection, Annotation, Open CV, YOLO, Flask API, Object-Oriented Programming**.
 
-- 📫 How to reach me **supun.social@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
