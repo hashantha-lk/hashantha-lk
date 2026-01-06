@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <h3 align="center">Software Engineer and AI/ML Engineerer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashantha-lk" alt="hashantha-lk" /></a> </p>
-
 - 🔭 I’m currently working on **Computer Vision** projects
 
 - 🌱 I’m currently diving deep in to **Data Scienc**
