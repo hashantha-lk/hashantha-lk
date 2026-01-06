@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <h3 align="center">Software Engineer and AI/ML Engineerer</h3>
 
-- 🔭 I’m currently working on **Computer Vision** projects
+- 🔭 I’m currently working on **Computer Vision** projects.
 
-- 🌱 I’m currently diving deep in to **Data Science** domain
+- 🌱 I’m currently diving deep in to **Data Science** domain.
 
-- 👯 I’m looking to collaborate on **Machine Learning & AI** projects
+- 👯 I’m looking to collaborate on **Machine Learning & AI** projects.
 
-- 💬 Ask me about **Frontend, Backend, Machine Learning, Image Processing, Data Collection, Annotation, Open CV, YOLO, Flask API, Object-Oriented Programming**
+- 💬 Ask me about **Frontend, Backend, Machine Learning, Image Processing, Data Collection, Annotation, Open CV, YOLO, Flask API, Object-Oriented Programming**.
 
 - 📫 How to reach me **supun.social@gmail.com**
 
