@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supun</h1>
-<h3 align="center">Software Engineer and AI/ML Engineerer</h3>
+<h3 align="center">Software Engineer and ML & AI Engineerer</h3>
 
 - 🔭 I’m currently working on **Computer Vision** projects.
 
